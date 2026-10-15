@@ -11,6 +11,19 @@ Checked 15 October 2026 on justETF. Facts for comparison, not financial advice.
 
 Returns are cumulative (not per year), as displayed on justETF (EUR basis). Past returns don't predict future returns.
 
+Also found: [SPDR S&P U.S. Health Care Select Sector](https://www.justetf.com/en/etf-profile.html?isin=IE00BWBXM617) (IE00BWBXM617, SXLV on SIX in USD, TER 0.15%, Ireland): YTD +16.9%, 1 year +24.3%, 3 years +28.1%, 5 years +48.4%. US companies only. No UBS health care ETF was found.
+
+## Yearly cost and projected return (hypothetical)
+
+Projection = what 1,000 CHF would become in 10 years **if** each fund repeated its past 5-year average yearly return. This is not a forecast; returns are already after TER, and CHF/EUR moves are ignored.
+
+| Fund | TER per year | Cost per year on 1,000 CHF | Past 5-year return per year | 1,000 CHF after 10 years (if repeated) |
+|---|---|---|---|---|
+| SPDR S&P U.S. Health Care (SXLV) | 0.15% | 1.50 CHF | 8.2% | ~2,200 CHF |
+| iShares World Health Care Advanced (WHCS) | 0.18% | 1.80 CHF | 5.3% | ~1,680 CHF |
+| Xtrackers MSCI World Health Care (XDWH) | 0.25% | 2.50 CHF | 6.2% | ~1,830 CHF |
+| SPDR MSCI World Health Care (WHEA) | 0.30% | 3.00 CHF | 6.2% | ~1,820 CHF |
+
 ## Swiss angle
 
 - No Swiss-domiciled (CH) global health care ETF was found. Swiss domicile mainly helps for Swiss stocks (35% Swiss withholding tax reclaimable); for a global fund, Irish domicile is the usual choice.
