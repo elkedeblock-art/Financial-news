@@ -38,3 +38,14 @@ All health care ETFs are **satellites** in the 80/20 plan: they cover one sector
 - VWCE already holds ~10% health care; Novo Nordisk is also health care.
 - As a satellite it counts as one theme (max 10% of the portfolio, together with NVO).
 - Satellite money starts September 2027; until then all new money goes to VWCE.
+
+## Which one fits my criteria (Swiss resident, pay in CHF)
+
+Applying my own criteria — not financial advice.
+
+- **CHF line ≠ no currency risk.** A CHF trading line only means I pay in CHF without a currency exchange. The fund still owns companies in USD, EUR and DKK, so a stronger franc lowers its CHF value on any line. Only a CHF-hedged version would change that; none was found for world health care, and hedging usually costs extra.
+- **When the CHF line saves money:** buying at a Swiss broker from a CHF account avoids an FX fee (often 0.25–1% per trade at Swiss banks). At a broker with cheap FX (e.g. Interactive Brokers ~0.002%), a USD line costs about the same.
+- **Matches all criteria (CHF on SIX, global, low cost, large):** **Xtrackers MSCI World Health Care (XDWH)** — Ireland, TER 0.25%, ~EUR 3.6bn, 5-year return +35%.
+- **Trade-offs:** SXLV is cheaper with a higher past return but US-only and in USD; WHCS is cheaper but lagged due to ESG screening.
+- **Swiss tax:** all are Irish funds, so the 15% US dividend tax inside the fund is not reclaimable (~0.1% a year).
+- **Timing:** satellite money starts September 2027; nothing to buy now.
