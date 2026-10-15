@@ -17,12 +17,15 @@ Also found: [SPDR S&P U.S. Health Care Select Sector](https://www.justetf.com/en
 
 Projection = what 1,000 CHF would become in 10 years **if** each fund repeated its past 5-year average yearly return. This is not a forecast; returns are already after TER, and CHF/EUR moves are ignored.
 
-| Fund | TER per year | Cost per year on 1,000 CHF | Past 5-year return per year | 1,000 CHF after 10 years (if repeated) |
-|---|---|---|---|---|
-| SPDR S&P U.S. Health Care (SXLV) | 0.15% | 1.50 CHF | 8.2% | ~2,200 CHF |
-| iShares World Health Care Advanced (WHCS) | 0.18% | 1.80 CHF | 5.3% | ~1,680 CHF |
-| Xtrackers MSCI World Health Care (XDWH) | 0.25% | 2.50 CHF | 6.2% | ~1,830 CHF |
-| SPDR MSCI World Health Care (WHEA) | 0.30% | 3.00 CHF | 6.2% | ~1,820 CHF |
+| Fund | Domicile | Bucket | TER per year | Cost per year on 1,000 CHF | Past 5-year return per year | 1,000 CHF after 10 years (if repeated) |
+|---|---|---|---|---|---|---|
+| SPDR S&P U.S. Health Care (SXLV) | Ireland | Satellite | 0.15% | 1.50 CHF | 8.2% | ~2,200 CHF |
+| iShares World Health Care Advanced (WHCS) | Ireland | Satellite | 0.18% | 1.80 CHF | 5.3% | ~1,680 CHF |
+| Xtrackers MSCI World Health Care (XDWH) | Ireland | Satellite | 0.25% | 2.50 CHF | 6.2% | ~1,830 CHF |
+| SPDR MSCI World Health Care (WHEA) | Ireland | Satellite | 0.30% | 3.00 CHF | 6.2% | ~1,820 CHF |
+| Amundi MSCI World Health Care | Luxembourg | Satellite | 0.30% | 3.00 CHF | no data | — |
+
+All health care ETFs are **satellites** in the 80/20 plan: they cover one sector, not the whole market. Together with Novo Nordisk they count as one theme (max 10% of the portfolio).
 
 ## Swiss angle
 
