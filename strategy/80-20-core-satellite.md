@@ -62,6 +62,10 @@ All 1,000 CHF goes into VWCE each month; nothing is sold.
 
 Rebalance with new contributions first; selling is the last resort.
 
+### January 2027 review: open items
+
+- **Nvidia (NVDA) as a possible satellite** (added 11 Nov 2026). Decide whether to add it to the allowed list, and whether it shares a "chips/AI" theme cap (10%) with AMD. If it does, AMD's weight blocks new chip money until that theme falls below 10%. Note: VWCE already holds Nvidia as one of its largest positions. Before deciding, check fiscal Q3 2027 results (due late Nov 2026) and the outcome of the Nov 2026 securities class action.
+
 ## Fees (TER, checked 15 Oct 2026)
 
 | Fund | Bucket | TER per year | Domicile |
